@@ -5,3 +5,4 @@ workspace/
 .chroma/
 *.bak
 .venv/
+!workspace/.gitkeep
